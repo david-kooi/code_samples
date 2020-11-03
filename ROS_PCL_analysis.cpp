@@ -1,6 +1,8 @@
 #include "sambuca_pcl/heap_analysis.h"
 #include <cmath>
 
+/* Written by David Kooi
+ * */
 
 
 boost::shared_ptr<pcl::visualization::PCLVisualizer> simpleVis (pcl::PointCloud<pcl::PointXYZ>::ConstPtr cloud)

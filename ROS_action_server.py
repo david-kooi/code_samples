@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+## Written by David Kooi
+
 import rospy
 import actionlib
 
